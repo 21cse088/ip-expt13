@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="newstylesheet.xsl"?>
+<root>
+<employe>
+<employe>
+    <name>raja</name>
+    <age>39</age>
+    <title>manager</title>
+    <salary>40,000</salary>
+    <dept>delta</dept>
+    <status>full time</status>
+</employe>
+<employe>
+    <name>priya</name>
+    <age>25</age>
+    <title>chief servent</title>
+    <salary>50,000</salary>
+    <dept>sales</dept>
+    <status>partial</status>
+     
+</employe>
+<employe>
+    <name>anu</name>
+    <age>35</age>
+    <title> assitant manager</title>
+    <salary></salary>
+    <dept>accounts</dept>
+    <status>partial</status>
+</employe>
+<employe>
+    <name>dharshan</name>
+    <age>20</age>
+    <title>HR</title>
+    <salary>65,000</salary>
+    <dept>managing</dept>
+    <status>full time</status>
+</employe>
+
+</root>
